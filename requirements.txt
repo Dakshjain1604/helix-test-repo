@@ -1,1 +1,1 @@
-LS0tIGEvcmVxdWlyZW1lbnRzLnR4dAorKysgYi9yZXF1aXJlbWVudHMudHh0CkBAIC0xLDEgKzEsMiBAQAogcHl0ZXN0Pj03LjQuMAorYXBwCg==
+pytest>=7.4.0
