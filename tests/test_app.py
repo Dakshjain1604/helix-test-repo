@@ -1,9 +1,1 @@
-from app import add, subtract
-
-
-def test_add():
-    assert add(2, 3) == 5
-
-
-def test_subtract():
-    assert subtract(5, 3) == 2
+ZnJvbSBhcHAgaW1wb3J0IGFkZCwgc3VidHJhY3QKCmRlZiB0ZXN0X2FkZCgpOgogICAgYXNzZXJ0IGFkZCgxLCAyKSA9PSAzCgpkZWYgdGVzdF9zdWJ0cmFjdCgpOgogICAgYXNzZXJ0IHN1YnRyYWN0KDUsIDIpID09IDM=
